@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding ="ISO-8859-1"?>
+<bookstore>
+<book1>english
+<name>english dictionary</name>
+<author>abc</author>
+<price>80</price>
+</book1>
+<book2>maths
+<name>numbers</name>
+<author>xyz</author>
+<price>100</price>
+</book2>
+<book3>social science
+<name>history</name>
+<author>qwe</author>
+<price>50</price>
+</book3>
+<book4>database
+<name>sql</name>
+<author>asd</author>
+<price>80</price>
+</book4>
+</bookstore>

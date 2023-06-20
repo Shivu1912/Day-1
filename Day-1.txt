@@ -1,0 +1,71 @@
+BOLD
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>introduction</title>
+</head>
+<body>
+    <b>shivani</b>
+</body>
+</html>
+
+BREAK.HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia eligendi eos ratione aliquam temporibus <br>dolores, dolorem aspernatur modi explicabo non nostrum. Illo eveniet molestiae repudiandae, doloribus dignissimos aliquam nam similique.
+</body>
+</html>
+
+DELETED.HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <del>
+    my name is shivani
+  </del>
+</body>
+</html>
+
+EMPHASIZED.HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>introduction</title>
+</head>
+<body>
+    <em> i am 20 years old</em>
+</body>
+</html>
+
+HEADING.HTML
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>shivani</h1>
+    <h2>darshita</h2>
+    <h3>dipika</h3>
+    <h4>riddhi</h4>
+    <h5>ankit</h5>
+    <h6>mohit</h6>
+</html>
+
+
